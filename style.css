@@ -1,6 +1,12 @@
 html, body {
   margin: 0;
   padding: 0;
+	p {
+    margin: 10px 0;
+    padding: 5px;
+    border: 1px solid #999;
+}
+	
 <style>
 .rainbow-text {
 	font-family: 'Comic Sans MS';
